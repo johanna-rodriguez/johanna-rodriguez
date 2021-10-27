@@ -1,12 +1,4 @@
-Greetings 👋🏻👩🏻‍💻
 
-Hi there, my name is Johanna. I'm a software engineer who is passionate about bringing new technologies into the world.
-
-🔭 I'm currently working on... Full stack Web development.
-🌱 I'm currently learning ... Typescript
-💞️ I’m looking for help with ... AWS.
-📫 How to reach me ... [_](https://www.linkedin.com/in/johanna-rodriguez-285641169/)
-😄 Pronouns: ... She/Her
 
 
 <!---
